@@ -19,4 +19,4 @@ Contributions:
 Pragnya Anuboina 50%
 Mounik V V S S 50%
 
-Data contest Link: https://www.kaggle.com/c/prml20/leaderboard
+Data contest Link: https://www.kaggle.com/c/prml20/
