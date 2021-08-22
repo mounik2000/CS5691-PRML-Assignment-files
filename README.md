@@ -13,3 +13,8 @@ Jupyter Notebook (Question): https://drive.google.com/open?id=1XlQesQIy4aQJBwVm0
 Data archive : https://drive.google.com/open?id=1kkqAv7LzVD5zFBLzAvPnORrI-H-sNh5V 
 
 Solutions are uploaded in this repository
+
+Contributions:
+
+Pragnya Anuboina 50%
+Mounik V V S S 50%
